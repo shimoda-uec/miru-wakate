@@ -4,12 +4,10 @@
   - バージョン  
   - 管理システム  
   
-テーブル  
-| Left align | Right align | Center align |
-|:-----------|------------:|:------------:|
-| This       |        This |     This     |
-| column     |      column |    column    |
-| will       |        will |     will     |
-| be         |          be |      be      |
-| left       |       right |    center    |
-| aligned    |     aligned |   aligned    |
+|ここに|項目を|入れます|
+|:-|-:|:-:|
+|ここから|テキストを|入れていきます|
+|昨日|今日|明日|
+|ボールペン|シャープペン|万年筆|
+|iPhone|iPad|MacBook|
+|テキストがながーくなっても|大丈夫なように出来ているので|レスポンシブでも安心|
