@@ -5,8 +5,11 @@
   - 管理システム  
   
 テーブル  
-| Left align | Right align |  
-|:-----------|------------:|  
-| This       |        This |  
-| column     |      column |  
-| will       |       wistl |  
+| Left align | Right align | Center align |
+|:-----------|------------:|:------------:|
+| This       |        This |     This     |
+| column     |      column |    column    |
+| will       |        will |     will     |
+| be         |          be |      be      |
+| left       |       right |    center    |
+| aligned    |     aligned |   aligned    |
